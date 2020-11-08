@@ -16,16 +16,13 @@ Soal :
   
   2. Lalu lakukan codingan seperti dibawah ini :
   
- ![Screenshot (73)](https://user-images.githubusercontent.com/72993076/98449681-0b031980-2168-11eb-8a6f-d0a55d7a3c27.png)
- 
-![Screenshot (74)](https://user-images.githubusercontent.com/72993076/98449682-0dfe0a00-2168-11eb-9c05-ef4e1614acb0.png)
-
-![Screenshot (75)](https://user-images.githubusercontent.com/72993076/98449683-135b5480-2168-11eb-960e-4592a693a63c.png)
-
+ ![Screenshot (81)](https://user-images.githubusercontent.com/72993076/98461097-15f79180-21dc-11eb-8795-8de3ebec163c.png)
+  
   3. Lalu Run dan lihat hasil outputnya.
   
-  ![Screenshot (76)](https://user-images.githubusercontent.com/72993076/98449688-16564500-2168-11eb-81a7-669a82c312bf.png)
+  ![Screenshot (82)](https://user-images.githubusercontent.com/72993076/98461098-1728be80-21dc-11eb-975f-4a32d59b74ee.png)
 
+  
   
  # Alur Algoritma Latihan 2 :
  
